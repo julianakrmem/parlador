@@ -6,7 +6,7 @@ O App está apontando para o localhost, sendo que ele feito pelo emulador do iOS
 
 Básico para rodar o server
 
--- npm install
+    npm install
 
 Para rodar o backend é necessário rodar primeiro as migrations
 
